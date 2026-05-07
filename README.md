@@ -15,6 +15,11 @@
   - Pode ser inserido na aplicação ou a aplicação toda pode ser em React;
     - Da pra usar um cdn e utilizar o react;
   - Mantido pela Meta;
+  
+  ### Criação de uma aplicação React:
+  - **npx** é o executor de scrips do Node;
+  - Comando de criação: ```npx create-react-app <nome>```;
+  - Comando para iniciar a aplicação: ```npm start```;
 
 ## 2 - Fundamentos do React:
 
