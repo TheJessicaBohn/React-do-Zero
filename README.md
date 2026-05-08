@@ -22,6 +22,11 @@
   - Comando para iniciar a aplicação: ```npm start```;
 
 ## 2 - Fundamentos do React:
+  - Criando componentes:
+    - Geralmente o componentes ficam numa pasta chamada **components**, que devemos criar;
+    - O **camel case** é uma boa prática: ```FirstComponent.js```;
+    - No arquivo **criamos uam função**, que contem o código desse componente (a lógica template);
+    - É necessário **exportar as funções** para reutilizá-las;
 
 ## 3 - Avançando em React:
 
